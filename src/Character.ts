@@ -79,4 +79,4 @@ export default class Character implements Fighter {
     this._energy.amount = 10;
     this._maxLifePoints = this._lifePoints;
   }
-}
+} 
