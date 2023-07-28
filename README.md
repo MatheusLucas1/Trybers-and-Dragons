@@ -8,15 +8,6 @@
 >>> A partir de agora esse repositório fica disponível publicamente e estou aberto a sugestões e colaborações futuras.
 Obrigado por sua visita.!
 
-<div align="center">
-<!--   <img alt="TFC!" src="imgs/5ca10a0410f76.png" width="250px"> -->
-  <h1>T&D - Trybers and Dragons</h1>
-  <p>
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rcamarano/trybers-and-dragons?color=blueviolet">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rcamarano/trybers-and-dragons?color=blueviolet">
-    <img alt="GitHub" src="https://img.shields.io/github/license/rcamarano/trybers-and-dragons?color=blueviolet">
-  </p>
-</div>
 
 ## Descrição
 
