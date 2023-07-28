@@ -36,8 +36,6 @@ Ao desenvolver este projeto, utilizei aplicação dos princípios da arquitetura
 # Clone este repositório
 $ git clone git@github.com:MatheusLucas1/Trybers-and-Dragons.git
 
-# Acesse a pasta do projeto no terminal/cmd
-$ cd trybers-and-dragons
 
 # Instale as dependências
 $ npm install
