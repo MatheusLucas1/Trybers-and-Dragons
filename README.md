@@ -49,4 +49,3 @@ $ npm run dev
 
 - [Matheus Lucas](https://github.com/MatheusLucas1)
 
-## Licença
