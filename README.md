@@ -35,7 +35,7 @@ Obrigado por sua visita.!
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/rcamarano/trybers-and-dragons.git
+$ git clone git@github.com:MatheusLucas1/Trybers-and-Dragons.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd trybers-and-dragons
