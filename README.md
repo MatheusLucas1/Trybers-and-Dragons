@@ -11,7 +11,15 @@ Obrigado por sua visita.!
 
 ## Descrição
 
-"Trybers and Dragons foi desenvolvido durante o curso de Desenvolvimento Web da Trybe. Utilizando HTML, CSS, JavaScript, React, Redux, ContextAPI, Hooks, React Testing Library, Jest, Git, GitHub, NodeJS, Express, MongoDB, MySQL, Sequelize, JWT, Socket.io, WebSockets, AWS, Heroku, entre outras tecnologias. O projeto consiste em um jogo de RPG, com possibilidade de criar personagens, adicionar itens e armas, e jogar com amigos."
+O projeto Trybers and Dragons - T&D é uma iniciativa que busca a aplicação dos princípios da arquitetura SOLID e da Programação Orientada a Objetos (POO) em um empolgante jogo de interpretação de papéis (RPG).
+
+Em T&D, os jogadores são transportados para um mundo fictício onde assumem o papel de personagens pertencentes a diferentes raças, cada uma com suas características únicas, como pontos de vida e destreza. Além disso, os personagens possuem arquétipos específicos, representando suas vocações e habilidades individuais.
+
+O cerne do jogo reside nos combates entre os personagens controlados pelos jogadores e monstros. Esses combates são baseados em atributos e habilidades específicas de cada personagem, adicionando um elemento estratégico às batalhas.
+
+Ao desenvolver este projeto, utilizei aplicação dos princípios da arquitetura SOLID e da POO. Isso resultou em um código bem estruturado, capaz de se adaptar facilmente a mudanças e, acima de tudo, de ser mantido com facilidade ao longo do tempo.
+
+
 
 ## Tecnologias
 
